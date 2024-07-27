@@ -4,10 +4,7 @@ version = 1
 name = "javascript"
 
   [analyzers.meta]
-  plugins = [
-    "angular",
-    "angularjs"
-  ]
+  plugins = ["angularjs"]
   environment = [
     "jquery",
     "nodejs"
